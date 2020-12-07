@@ -1,7 +1,7 @@
 # Git Practice
 
-** this is bold text **
-**** Bold and Italic ****
+**this is bold text**
+****Bold and Italic****
 
 > Quoting text
 
@@ -15,4 +15,4 @@ git commit -m
 git log
 ```
 
-my github profile[Github](https://github.com/saifakib)
+my github profile [Github](https://github.com/saifakib)
