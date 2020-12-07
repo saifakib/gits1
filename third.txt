@@ -1,1 +1,2 @@
 this is first text of thirsd file
+this is second text

@@ -1,1 +1,2 @@
 this is first text of second file
+this is second text
