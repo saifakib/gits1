@@ -1,2 +1,2 @@
-this is first text of thirsd file
-this is second text
+Edited this file and ready for commit
+Good Bye
