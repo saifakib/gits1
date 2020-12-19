@@ -1,0 +1,1 @@
+this is branch6 text, where i marge from github using pull request
